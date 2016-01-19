@@ -1,0 +1,19 @@
+{
+  "name": "es6-easings",
+  "version": "1.0.0",
+  "description": "ES6 version of Robert Penner's easing functions",
+  "main": "lib/easing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasdupin/es6-easing.git"
+  },
+  "author": "Lucas Dupin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasdupin/es6-easing/issues"
+  },
+  "homepage": "https://github.com/lucasdupin/es6-easing#readme"
+}
